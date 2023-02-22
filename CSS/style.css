@@ -5,7 +5,9 @@ header {
 	padding: 10px;
 	background-color: bisque;
 	font-family: Arial, Helvetica, sans-serif;
-	font: normal 20pt;
+	font: normal 40pt;
+	color: gray;
+	text-align: center;
 }
 section {
 	margin-left: 10px;
@@ -32,6 +34,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font: normal 12pt;
 }
+
 footer {
 	margin-left: 10px;
 	margin-right: 10px;
@@ -39,7 +42,6 @@ footer {
 	padding: 10px;
 	background-color: gray;
 	font-family: Arial, Helvetica, sans-serif;
-	font: normal 12pt;
 	color: white;
 	text-align: center;
 	border-radius: 50%;
