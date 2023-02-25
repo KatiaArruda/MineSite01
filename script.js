@@ -2,12 +2,13 @@ function carregar() {
   const msg = window.document.getElementById("#msg");
   const img = window.document.getElementById("#imagem");
   const data = new Date();
-  const hora = data.getHours();
+  //const hora = data.getHours();
+  const hora = 8
   msg.innerHTML = 'Bom dia!';
 
   if (hora >= 0 && hora < 12) {
     //Bom dia!
-    img.src = "fotodaManhaAF.png";
+    img.src = '';
   } else if (hora >= 12 && hora < 18) {
     //Boa tarde
     img.src = "FotodaTardeAF";
