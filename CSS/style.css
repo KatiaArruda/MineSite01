@@ -1,0 +1,49 @@
+header {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: bisque;
+	font-family: Arial, Helvetica, sans-serif;
+	font: normal 40pt;
+	color: gray;
+	text-align: center;
+}
+section {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: auto;
+	height: 50vh;
+	padding: 10px;
+	background-color: gray;
+	font-family: Arial, Helvetica, sans-serif;
+	font: normal 14pt;
+	color: white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px;
+	border: solid white;
+	text-align: center;
+}
+body {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: bisque;
+	font-family: Arial, Helvetica, sans-serif;
+	font: normal 12pt;
+}
+
+footer {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: gray;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+	border-radius: 50%;
+	box-shadow: 10px 10px 10px 10px white;
+}
